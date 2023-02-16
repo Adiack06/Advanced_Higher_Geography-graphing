@@ -1,0 +1,9 @@
+direction,count
+north,4
+north_east,5
+east,3
+south_east,2
+south,1
+south_west,1
+west,1
+north_west,3
